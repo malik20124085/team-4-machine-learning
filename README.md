@@ -6,6 +6,15 @@
 
 Machine Learning Project Asiignment by Team 4
 
+## Team Member
+
+| Nama                   | NIM      | Role            |
+| ---------------------- | -------- | --------------- |
+| Malik Nur Khaerudin    | 20124085 | Project Manager |
+| Damia Hasna Difa       | 20124116 | Data Scientist  |
+| Rizki Fatimah Az-Zahra | 20124099 | UI/UX Designer  |
+| Kaila Naya             | 20124095 | UI/UX Designer  |
+
 ## Project Organization
 
 ```
@@ -26,7 +35,7 @@ Machine Learning Project Asiignment by Team 4
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
-├── pyproject.toml     <- Project configuration file with package metadata for 
+├── pyproject.toml     <- Project configuration file with package metadata for
 │                         machine_learning_project and configuration for tools like black
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
@@ -49,13 +58,12 @@ Machine Learning Project Asiignment by Team 4
     │
     ├── features.py             <- Code to create features for modeling
     │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
+    ├── modeling
+    │   ├── __init__.py
+    │   ├── predict.py          <- Code to run model inference with trained models
     │   └── train.py            <- Code to train models
     │
     └── plots.py                <- Code to create visualizations
 ```
 
---------
-
+---
