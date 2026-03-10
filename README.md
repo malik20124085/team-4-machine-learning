@@ -4,13 +4,13 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Machine Learning Project Asiignment by Team 4
+Machine Learning Project Assignment by Team 4
 
 ## Team Member
 
-| Nama                   | NIM      | Role            |
+| Name                   | NIM      | Role            |
 | ---------------------- | -------- | --------------- |
-| Malik Nur Khaerudin    | 20124085 | Project Manager |
+| Malik Nur Khaerudin    | 20124085 | Product Manager |
 | Damia Hasna Difa       | 20124116 | Data Scientist  |
 | Rizki Fatimah Az-Zahra | 20124099 | UI/UX Designer  |
 | Kaila Naya             | 20124095 | UI/UX Designer  |
